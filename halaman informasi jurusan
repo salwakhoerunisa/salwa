@@ -1,0 +1,17 @@
+<html>
+<head>
+	<title> Halaman Informasi Jurusan </title>
+</head>
+<body>
+<body background bgcolor="grey">
+<center><h1>Halaman Informasi Jurusan<h1>
+Jurusan di SMK Plus Pratama Adi:
+<ol>
+	<li> TKJ </li>
+	<li> Akuntansi</li>
+	<a href="Web Informasi Sekolah"><h3>Web Informasi Sekolah</h3></a> <br>
+	</center>
+</ol>
+</body>
+</html>	
+</html>	

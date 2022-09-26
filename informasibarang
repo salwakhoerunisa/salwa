@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>Informasi Barang</title>
+</head>
+<body>
+<center><h1>Informasi barang<h1>
+<table width="50%" border"1" cellspacing="0" bgcolor="purple">
+	<th>Barang</th<!--Header tabel -->
+	<th>Stok</th<!--Header tabel -->
+	</tr>
+	<tr>
+	<td align="center">Laptop</td>
+	<td align="center">100</td>
+	</tr>
+		<tr>
+	<td align="center">CPU</td>
+	<td align="center">50</td>
+	</tr>
+		<tr>
+	<td align="center">Keyboard</td>
+	<td align="center">65</td>
+	</tr>
+		<tr>
+	<td align="center">mouse</td>
+	<td align="center">45</td>
+	</tr>
+	</center>
+</table>
+</body>
+</html>

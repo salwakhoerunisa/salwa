@@ -1,0 +1,20 @@
+<html>
+<head>
+	<title> Halaman Informasi Sarana dan Prasarana</title>
+</head>
+<body>
+<body background bgcolor="cream">
+<center><h1> Halaman Informasi Sarana dan Prasarana<h1>
+ Sarana dan Prasarana di SMK Plus Pratama Adi:
+<ol>
+	<li> Lab di sertai AC</li>
+	<li> Mushola</li>
+	<li> Bank mini</li>
+	<li> Ruang kelas berkarpet</li>
+	<li> Perpustakan</li>
+	<li> Toilet bersih</li>
+	<a href="Web Informasi Sekolah"><h3>Web Informasi Sekolah</h3></a> <br>
+	</center>
+</ol>
+</body>
+</html>	

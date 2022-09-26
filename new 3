@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Web Informasi Toko</title>
+</head>
+<body background bgcolor="pink">
+<center>
+<body><h1>INFORMASI TOKO</h2><br>
+Toko Komputer Jaya<br>
+Menjual komputer dan komponen-komponennya <br>
+JL.Banjaran NO.50<br>
+ </center>
+ <a href="new 2.html">Kembali ke halaman</a>
+</body>
+</html>

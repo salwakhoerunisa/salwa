@@ -1,0 +1,17 @@
+<html>
+<head>
+	<title> Halaman Informasi Sekolah </title>
+</head>
+<body>
+<body background bgcolor="pink">
+<center><h1>Halaman Informasi Sekolah<h1>
+Identitas Sekolah:
+<ol>
+	<li> Nama sekolah : SMK Plus Pratama Adi</li>
+	<li> Alamat		  : Cileutik Banjaran Kab.Bandung</li>
+	<li> Usia Sekolah : 14 tahaun </li>
+	<a href="Web Informasi Sekolah"><h3>Web Informasi Sekolah</h3></a> <br>
+	</center>
+</ol>
+</body>
+</html>	
